@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1049891561834",
+    "firebase_url": "https://hclient-decoder.firebaseio.com",
+    "project_id": "hclient-decoder",
+    "storage_bucket": "hclient-decoder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049891561834:android:8036070681504adc",
+        "android_client_info": {
+          "package_name": "com.hclient.decoder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049891561834-doduq4gu3vbo7rvloa3h2t3kotdjlqoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANlzLC0dbfHNtD1trDZFg0BtTs9mXAJAw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
